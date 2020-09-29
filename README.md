@@ -31,3 +31,17 @@ Make sure you upload and name your repository in lowercase recommend it.
 4.After doing that you would be ready to upload any commits to Git and Github the hardest part is to set up your repository after this you would be able to created new repositories and project with the same process.
 You can also create files in GitHub such as README files that are used to give instruction to different programmers that are looking at your code. 
 
+Glossary
+
+•  Branch: Branch is the main location in GitHub where your repositories and any commits. There can be different branches for different projects too.
+•  Clone : Is the option to clone the code from GitHub to WebStorm and be able to edit it. 
+•  Commit : Commit is the action to upload your work to git or GitHub, is the command use to send information out.
+•  Fetch: is the instruction we use to bring back code from the memory in the CPU.
+•  GIT : Git is the system we use to be able to upload information to GitHub. 
+•  GitHub : GitHub is the place in the internet we commit our work so you can share it with the rest of the world, it is also the place where you commit all your changes to your different branches.
+•  Merge : Merge is use for a multi-code job meaning that you can be working with someone else in the same code and both can merge your piece of your code together.
+•  Merge Conflict : Merge conflict is when one of the people that is working on the code has an error or is conflicted with the code that is already summit it.
+•  Push : Push is the process we use to put any update of your code to GitHub and git.
+•  Pull : Pull is what we use to bring code from GitHub or any other place online with the right repository.
+•  Remote : Remote is the ability to connect to a server or a computer remotely from other places or computers.
+•  Repository: Is the central file storage location, is like the main section where all your information is being storage  in your computer or in the web.

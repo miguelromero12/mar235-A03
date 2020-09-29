@@ -8,4 +8,4 @@ they have an application call webstorm that is an environment application.
 
 3.After you do that you would need too created an account in Github, you can create by using your email.
 
-4.After creating the account in Github
+4.After creating the account in Github, you would need to open webstorm.
